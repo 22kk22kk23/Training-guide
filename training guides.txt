@@ -1,0 +1,261 @@
+Training Guides:
+
+-- The host must join the game atleast 30 minutes before the session starts.
+
+Session ranks:
+
+Attendee has to be Trainee, Junior Barista, Barista and if applied for SA, Senior Barista may attend in mass trainings.
+Host has to be Board Of Directors+
+Co-Host has to be Gerenal Manager+
+Trainer has to be Staff Assistant+
+Helper has to be Staff Assistant+
+Spectator has to be Staff Assistant+
+Ranker has to be Board Of Directors+
+
+-- Before you start a session, you need to claim it first. You can do it by going to the claim catagory, and heading to #trainings, type in the format, and then host.
+
+-- After claiming, let everyone know by typing this into the group shout:
+
+Host: Salutations, I am hosting a training session beginning at (START TIME HERE), trainees have a chance of getting promoted, while SA+ may come and assist.
+
+-- The host must then join the training center, the host should wait for the others to come.
+
+-- You would require a Co-Host for a session
+
+Session requirements:
+
+Must have co-host
+Must have 2 trainers
+Must have 4 helpers
+Must have 1+ rankers
+
+-- These will apply in the future since we aren't really that active yet
+
+-- If the trainees and assistants start joining, say this:
+
+Host: :m To all trainees, say PTS if you need help or want to ask a question. Do not spam PTS or it will be 3 warnings, then a kick.
+
+-- The host and co-host must pick the roles for all SA+, name them the roles, you pick them.
+
+-- When the training starts:
+
+Host or Co-Host: :slock
+
+Host: :m Salutations, and welcome to the training session. My name is (name here), and I will be the host for today's session.
+
+Co-Host: :m Salutations, and welcome to the training session. My name is (name here), and I will be the co-host for today's session.
+
+Host: :m My Co-Host will explain rules, listen to these rules so you can follow these rules and not break the rules.
+
+-- Co-Host must begin there lines
+
+Co-Host: :m Rule 1: Do not troll, trolling will result in 3 warnings, then a kick from the server.
+
+Co-Host: :m Rule 2: Do not exploit, exploiting will be a INSTANT BAN from the server / or forever.
+
+Co-Host: :m Rule 3: Do not cheat, cheating will be a kick + a possible demotion.
+
+Co-Host: :m Rule 4: Do not record this training, doing so is a kick + a possible ban from this training center.
+
+Co-Host: :m Rule 5: Do not spam, spamming will be a warning, then a kick. Mass spamming will be a INSTANT ban from the server.
+
+Co-Host: :m Now I would like to give the speaker back to the host, so he could explain more.
+
+-- Host must begin there lines
+
+Host: :m Now back to me, I would now explain about the training.
+
+Host: :m There are 3 sections: Ordering, Quiz, and Trolling.
+
+Host: :m Your trainer will explain about these sessions, so we are divided into 2 groups: Group A, and B.
+
+Host: :m The trainer will tell you to join there group, follow them, then head to the group, the trainer might also bring people who are in.
+
+Host: :m If you didn't get moved, that means the training is full, if training is full is a dismissal.
+
+Host: :m Now, everyone must begin, this concludes the announcement.
+
+-- Trainers, bring the trainees.
+                                         
+Trainer: Hello, and welcome to the training session! My name is (name), say hello to the helpers behind me.
+
+Trainee: Hi!
+
+Trainer: Like the host said, there are 3 sections: Ordering, Quiz, and Trolling, and we will do these sections.
+
+Trainer: Any questions before we begin?
+
+-- The trainee must say either yes or no, if yes then you or the helpers must answer them.
+
+Trainer: Let's begin, the 1st section is the ordering section.
+
+Trainer: The ordering section is when you are responsible for making orders to customers, if you don't then you will be demoted.
+
+Trainer: First, when the customer apporaches you, say your greetings.
+
+Trainer: A greeting for example is like: "Hello! Welcome to Whatashaker cafe, my name is (name), and how can I help you on this wonderful day?".
+
+Trainer: Then, the customer will say hi, and after that ask for what they want to eat/drink.
+
+Trainer: It is your responsibity for making the food, and interacting with customers.
+
+Trainer: Reply back with "Great choice! Coming right up!".
+
+Trainer: Now, go and make the food/drink, if you don't know. Look at the recipe book, but be quick.
+
+Trainer: After making the food/drink, head to the customer, and use the /handto cmd or handto button to give it to the customer.
+
+Trainer: Say something like "Thank you for coming to Whatashaker cafe! We hope you come again!"
+
+Trainer: But, anyways. Let's begin, my helpers will come up, and you guys have to do it.
+
+-- The helpers must apporach the half of the group, Helper 1 will go on the first half, while Helper 2, on the other half.
+
+Helper: Greetings?
+
+-- The trainee must say a perfect greeting.
+
+Helper: Hi!
+
+Helper: I want a (put food/drink here).
+
+-- The trainee must say something like "Great choice, coming right up!"
+
+-- The trainee must make the food/drink.
+
+-- The trainee must apporach the helper and type in /handto user.
+
+Helper: Thank you!
+
+-- The trainee must say the ending greeting.
+
+Helper: I will be now giving you the results.
+
+IF PASS THEN:
+
+Helper: Congratulations, you have passed the 1st section, please do not leave yet as you have 2 more sections to complete!
+
+IF FAIL THEN:
+
+Helper: Sadly, you have failed this section. If you fail the next section, then you will fail this training, so improve in the next section.
+
+-- TRAINER, BEGIN WITH 2ND SECTION
+
+Trainer: Congratulations to the passers, now let's focus on the 2nd section, quiz.
+
+Trainer: In this section, my helpers will give you 3 questions about your job, if you get atleast 2/3 correct. You will pass this section.
+
+Trainer: Do not cheat or share answers, or you will fail this training.
+
+Trainer: Now, let's begin.
+
+Trainer/Helper: :pm (trainee user) How many warnings does a troller get?
+
+Correct answer: 3
+
+Trainer/Helper: :pm (trainee user) How many warnings does a exploiter get?
+
+Correct answer: 0
+
+Trainer/Helper: :pm (trainee user) What would you do if you see another LR being disrespectful?
+
+Correct answer: I will give them 3 warnings, then report them to a MR/HR+.
+
+Helper: I will be now giving you the results.
+
+IF PASS THEN:
+
+Helper: Congratulations, you have passed the 2nd section, please do not leave yet as you have 1 more section to complete!
+
+IF FAIL THEN:
+
+Helper: Sadly, you have failed this section. If you fail the next section, then you will fail this training, so improve in the final section.
+
+IF FAILED, BUT ALREADY FAILED:
+
+Helper: Sadly, you failed 2/3 sections, you are dismissed. You can stay here for group photo if you want.
+
+-- TRAINER, BEGIN THE 3RD SECTION
+
+Trainer: Now, the final section. Which is trolling.
+
+Trainer: In this section, my helpers will pretend to be a common person breaking the rules, your job is to deal with them.
+
+Trainer: For example, if I troll and use caps, I will get a warning, and if I keep doing it 2nd warning, then 3rd.
+
+Trainer: If I reach my 3rd warning, you have to call MR+ for example: *calls mr* to deal with my helpers, note this is pretending, this is not real.
+
+Trainer: If you want to give a warning to a troller, type this example: W1 - Trolling.
+
+Trainer: However, for exploiting, call a HR+ instantly, do *calls HR+*
+
+Trainer: If you are unsure of what trolling means, that means when you be silly, and do off-topic stuff, ask for stuff out of the menu, using caps, etc.
+
+Trainer: Exploiting means when you fly around, and have admin powers.
+
+Trainer: But anyway, let's begin.
+
+-- HELPERS STAND BY THE TRAINEES
+
+Helper: Greetings?
+
+-- The trainee must say there greeting, after saying there greeting. The helper must start trolling/exploiting.
+
+-- The trainee must give 3 warnings, then say *calls MR+* if the helper fully trolls
+
+-- If the helper says *exploits* the trainee must say something like *calls HR+*
+
+Helper: I will be now giving results.
+
+IF PASS THEN:
+
+Helper: Congratulations, you have passed the whole training! Please follow the trainer to the promotion room so you can get a promotion as a reward!
+
+IF FAIL THEN:
+
+Helper: Sadly, you have failed this section, but since you failed just 1. I will let you go with the passers, congratulations on atleast passing!
+
+IF FAILED, BUT ALREADY FAILED:
+
+Helper: Sadly, you failed 2/3 sections, you are dismissed. You can stay here for group photo if you want.
+
+Trainer: Congratulations on passing, passers! I will lead you to the waiting room to get promoted!
+
+Trainer: There are a few ways to get through the rooms, reset, then you will be in the rooms.
+
+-- The trainees must either follow the trainer or reset, then sit in the seats for the rankers to promote the trainees.
+
+-- If everyone has been ranked:
+
+Host: :m I would like for everyone to stand by stage, and take a group photo.
+
+Host: :m Everyone say #TRAININGS!                                                      
+
+-- The host or co-host should take the picture, and then post it into the dizzy server in #memories.
+
+Host: :m Taken!
+
+Host: :m The training has concluded, thank you to everyone for attending, and congrats to the people who received a promotion! Bye!
+
+-- The host or co-host may shutdown the server, or just keep the server running for time for everyone to leave.
+
+IF SHUTDOWN THEN:
+
+Host or Co-Host: :shutdown This training has been concluded, there are more trainings hosted in the future!
+
+-- THE END OF THE TRAINING GUIDES, THE HOST OR ANYONE ELSE MAY USE IT AGAIN TO DO MORE TRAININGS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
