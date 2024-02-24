@@ -10,7 +10,7 @@ Co-Host has to be Gerenal Manager+
 Trainer has to be Staff Assistant+
 Helper has to be Staff Assistant+
 Spectator has to be Staff Assistant+
-Ranker has to be Board Of Directors+
+Ranker has to be Chief Operations Officer+
 
 -- Before you start a session, you need to claim it first. You can do it by going to the claim catagory, and heading to #trainings, type in the format, and then host.
 
